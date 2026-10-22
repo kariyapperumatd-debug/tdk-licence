@@ -1,0 +1,7 @@
+TDK TOOLS - BLOCKLIST
+=====================
+To block a user: add their Machine ID (or their full key) on its own line below.
+The tool reads this file online and refuses to run for anyone listed here.
+Lines of notes like this are ignored - only exact Machine IDs / keys matter.
+
+# Example (delete this line): A1B2-C3D4-E5F6
