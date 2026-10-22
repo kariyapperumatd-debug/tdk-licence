@@ -5,3 +5,4 @@ The tool reads this file online and refuses to run for anyone listed here.
 Lines of notes like this are ignored - only exact Machine IDs / keys matter.
 
 1365-8850-3D62
+191E-7FA0-AF96
