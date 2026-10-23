@@ -4,4 +4,4 @@ To block a user: add their Machine ID (or their full key) on its own line below.
 The tool reads this file online and refuses to run for anyone listed here.
 Lines of notes like this are ignored - only exact Machine IDs / keys matter.
 1365-8850-3D62
-29f6-0e10-7198
+29F6-0E10-7198
